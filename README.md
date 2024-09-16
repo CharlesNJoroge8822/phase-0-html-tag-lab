@@ -50,7 +50,7 @@ For Mac users:
 
 For WSL users:
 
-- Open from Ubuntu by running `explorer.exe index.html` in the root directory of
+- Open from Ubuntu by running in the root directory of
   this lab
 - Open a new Explorer window. There is a bar that says "Quick Access" along the
   top of the window (similar to a URL bar in a browser). Click this and type
